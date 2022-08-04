@@ -1,6 +1,62 @@
-# Getting Started with Create React App
+# My First Project with React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+[![Maintenance](https://img.shields.io/badge/React-v18.2.0-%3CCOLOR%3E)](https://img.shields.io/badge/Django-v3.1.7-%3CCOLOR%3E)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+
+[![GitHub latest commit](https://badgen.net/github/last-commit/caiomarinhodev/first-app-react)](https://GitHub.com/caiomarinhodev/first-app-react/commit/)
+
+
+### 📝 Description
+---
+
+This is an application to create many components and display on screen like a Blog/Site template.
+
+
+### 🚀 Status Project
+---
+<h4> 
+Under Development
+</h4>
+
+### 💻 Features
+---
+
+- [x] React
+- [x] React bootstrap
+
+### ⚡Tech Stack
+---
+
+The following tools were used in building the project:
+
+- [React](https://pt-br.reactjs.org/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [Heroku](https://www.heroku.com/)
+
+### Authors
+---
+
+<a href="#">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/7137962?v=4" width="100px;" alt=""/></a>
+ <br />
+ <sub><b>Caio Marinho</b></sub></a> <a href="#" title="Caio Marinho">🚀
+
+[![Linkedin Badge](https://img.shields.io/badge/-Caio%20Marinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiomarinho/)](https://www.linkedin.com/in/caiomarinho/) 
+[![Gmail Badge](https://img.shields.io/badge/-caiomarinho8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiomarinho8@gmail.com)](mailto:caiomarinho8@gmail.com)
+
+Made with ❤️ by Caio Marinho 👋🏽 Get in touch!
+
+
+### Application Demo
+---
+
+[Imgur](https://imgur.com/51rlWEo)
+
 
 ## Available Scripts
 
